@@ -1,2 +1,27 @@
 # tuning-knob-pcboard
-KiCAD PC Board design for a tuning knob that works with PowerSDR and SmartSDR and RHR. Uses STM32 hardware.
+KiCAD PC Board design for a tuning knob that works with PowerSDR and SmartSDR and Remote Ham Radio (RHR). Uses STM32 hardware.  
+
+## Features:
+- 24ppr encoder
+- multiple ways to build it
+- uses mostly-available STM32F103 "Blue Pill" PC boards, may also work with newer, more powerful, more available, and cheaper (!?) "Black Pill" PCBs using STM32F4xx CPUs (with code changes)
+- through-hole parts
+- 20-30 minute assembly
+- traces already supplied for future expansion for footswitch inputs, flash memory, SPI-based displays
+
+## Version 1:
+Build it two ways:
+- snap-action tactile switches and 3mm LEDs
+- small tactile switches with built-in LEDs
+- isolated pin 40 to not prohibit "Black Pill" from being plugged in
+
+## Version 2 (in Progress):
+- Cherry MX or compatible "buttons"
+- RGB LEDs for illumination
+
+## Future:
+- With a composite USB Device providing two CDC (serial) devices, a solution that provides a Knob and a de-bounced footswitch
+
+## References:
+- KiCAD library / design for Cherry Switch + RGB : https://github.com/sszczep/Cherry-MX-Breakout-Board
+
