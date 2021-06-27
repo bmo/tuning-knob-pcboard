@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SW_Push_LED_TL6215
+D Push button switch with LED, generic
+K switch normally-open pushbutton push-button LED
+F ~
+$ENDCMP
+#
+#End Doc Library
