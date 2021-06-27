@@ -1,0 +1,3 @@
+[submodule "knob_v2/Cherry-MX-Breakout-Board"]
+	path = knob_v2/Cherry-MX-Breakout-Board
+	url = https://github.com/sszczep/Cherry-MX-Breakout-Board.git
