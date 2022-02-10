@@ -14,6 +14,7 @@ Build it two ways:
 - snap-action tactile switches and 3mm LEDs
 - small tactile switches with built-in LEDs
 - isolated pin 40 to not prohibit "Black Pill" from being plugged in
+![hwcontrol_513k](https://user-images.githubusercontent.com/11912/153449086-7aa9e259-4c36-4aab-b3d2-77c59784bd3d.jpg)
 
 ## Version 2 (in Progress):
 - Cherry MX or compatible "buttons"
