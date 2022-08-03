@@ -43,6 +43,8 @@ You've now completed the hardware side of the build!
 
 # Uploading Code
 
+Find the code at the separate [bmo/hwcontrol](https://github.com/bmo/hwcontrol) repository!
+
 To finish this build, you'll need to upload the software to the STM-32 board. Start by connecting your board to the ST-Link V2 dongle. 
 
 From the ST-Link to the STM-32, the connections should be as follows:
