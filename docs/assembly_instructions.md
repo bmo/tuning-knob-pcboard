@@ -1,3 +1,5 @@
+> Note: if you are building your tuning knob using this documentation, we'd love if you are able to submit pictures as you progress through each step! Please feel free to make a PR with additional photos and resources.
+
 # Bill of Materials (BoM)
 
 Sources listed below were confirmed to work at the time of their addition. Please make a PR if you find new sources for parts that work or if any of these links become outdated.
