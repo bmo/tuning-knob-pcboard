@@ -27,3 +27,5 @@ Build it two ways:
 ## References:
 - KiCAD library / design for Cherry Switch + RGB : https://github.com/sszczep/Cherry-MX-Breakout-Board
 
+## Contributions
+Thanks to @cjtheham for BOM and documentation!
