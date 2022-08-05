@@ -1,4 +1,6 @@
-# tuning-knob-pcboard
+# tuning-knob-pcboard  
+https://github.com/bmo/tuning-knob-pcboard
+
 This is a KiCAD PC Board design for a tuning knob that works with PowerSDR and SmartSDR and Remote Ham Radio (RHR). Uses STM32 hardware. Find the software that works with this here: https://github.com/bmo/hwcontrol
 
 ## Features:
